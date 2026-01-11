@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Took Her To The O",
+  "base_artist": "King Von",
+  "createdAt": "2026-01-11T13:51:21.434092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Took Her To The O",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/01_Took_Her_To_The_O_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Took Her To The O",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/02_Took_Her_To_The_O_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Took Her to the O",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/03_Took_Her_to_the_O_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Took Her to the O",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/04_Took_Her_to_the_O_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Took Her to the O",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/05_Took_Her_to_the_O_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Took Her to the O",
+      "artist": "Video • King Von",
+      "has_synced": true,
+      "path": "select/06_Took_Her_to_the_O_Video_•_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Took Her To The O",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/07_Took_Her_To_The_O_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Took Her to the O",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/08_Took_Her_to_the_O_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Took Her to the O",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/09_Took_Her_to_the_O_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Took Her To The O (Paused)",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/10_Took_Her_To_The_O_(Paused)_King_Von.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Took Her To The O",
+      "artist": "King Von",
+      "has_synced": false,
+      "path": "select/pl_01_Took_Her_To_The_O_King_Von.txt"
+    }
+  ]
+}
